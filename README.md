@@ -1,6 +1,6 @@
 # My HTML Games Collection
 
-This repository contains 5 HTML games. Click the links below to play:
+This repository contains 4 HTML games. Click the links below to play:
 
 1. [2048 Game](2048/index.html)
 2. [Breakout Game](breakout/index.html)
